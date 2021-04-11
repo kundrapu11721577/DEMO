@@ -4,8 +4,7 @@ This is a basic file
 
 ## HELP ME   
 
-We are trying to evalute output through p4MERGE tool. 
-
+We are
 ###P4MERGE. 
 
 I hope this not abad 
